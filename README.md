@@ -1,5 +1,5 @@
 # AlertDialogs
-This is simple Alert Dialog and alert choosing option
+## This is simple Alert Dialog and alert choosing option
 
 <img src="/Shot/S1.png" height="100%" width="40%">
 
